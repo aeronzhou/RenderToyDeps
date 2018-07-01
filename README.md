@@ -1,2 +1,2 @@
 # AGLDependencies
-Dependencies for my personal graphics renderer
+Dependencies for my personal graphics library
